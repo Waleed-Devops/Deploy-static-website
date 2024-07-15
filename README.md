@@ -96,6 +96,21 @@ Recommended for most use cases and access patterns. General purpose buckets are 
 - In the Static website hosting panel under bucket website endpoint, click on the URL.
 - An error! 
 
+![image](https://github.com/user-attachments/assets/4c3760cf-8f77-4b81-bede-c3a19dacdaa9)
+
+
+### Use ACLs to make objects in your S3 bucket public
+
+- switch back to the Amazon S3 console tab.
+- goto your bucket's Objects page and making your objects public using ACLs.
+
+
+![image](https://github.com/user-attachments/assets/ec02ab4b-a8e6-4e83-9ea3-53306b2da56f)
+
+- head to the Objects tab.
+- Select the checkboxes next to your index.html file and the folder of website assets.
+- In the Actions dropdown, choose Make public using ACL
+
 
 
 
