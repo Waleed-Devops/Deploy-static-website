@@ -38,6 +38,7 @@ Recommended for most use cases and access patterns. General purpose buckets are 
 ![image](https://github.com/user-attachments/assets/c7d6a1eb-0af3-48a9-9ebd-dae17af5a31d)
 
 - For Object Ownership, choose ACLs enabled.
+  
 - Choose Bucket owner preferred.
 
 
@@ -48,20 +49,25 @@ Recommended for most use cases and access patterns. General purpose buckets are 
   ![image](https://github.com/user-attachments/assets/618819af-0a1c-4c62-a43b-5d0fb624ecdc)
   
 - Check the box that says “I acknowledge that the current settings might result in this bucket and the objects within becoming public.”
+  
 - For Bucket Versioning, choose Enable.
 
   ![image](https://github.com/user-attachments/assets/3aaf7b96-e06b-4100-a5ae-57288f3a9af5)
 
 - Choose Create bucket.
-- 
+  
 ![image](https://github.com/user-attachments/assets/740bd3d5-edfc-4a05-a140-166feaa954b1)
 
 - just created an S3 bucket!
-- 
+ 
 ## Upload website content to your bucket
 
 - Upload these files into your bucket (right click on each link, and select Save link as...):
+  
   ![image](https://github.com/user-attachments/assets/2395bf88-9291-4ad0-9645-5a2c7918b9ba)
+
+  ![image](https://github.com/user-attachments/assets/31c28106-699c-4b40-80f3-90e696663dfc)
+
 
 
 
