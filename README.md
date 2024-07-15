@@ -91,7 +91,10 @@ Recommended for most use cases and access patterns. General purpose buckets are 
 
 ![image](https://github.com/user-attachments/assets/ebe1a0b9-52f6-4b32-b0f7-652882160a74)
 
--click on save changes button
+- click on save changes button
+
+- In the Static website hosting panel under bucket website endpoint, click on the URL.
+- An error! 
 
 
 
