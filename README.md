@@ -47,10 +47,11 @@ Recommended for most use cases and access patterns. General purpose buckets are 
 
   ![image](https://github.com/user-attachments/assets/618819af-0a1c-4c62-a43b-5d0fb624ecdc)
 - Check the box that says “I acknowledge that the current settings might result in this bucket and the objects within becoming public.”
+- For Bucket Versioning, choose Enable.
 
   ![image](https://github.com/user-attachments/assets/3aaf7b96-e06b-4100-a5ae-57288f3a9af5)
 
-  For Bucket Versioning, choose Enable.
+- Choose Create bucket.
 
 
 
