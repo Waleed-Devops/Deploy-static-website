@@ -31,4 +31,5 @@ Amazon S3 (Simple Storage Service) is a highly scalable, reliable, and low-laten
 ![Screenshot_15-7-2024_183135_us-east-1 console aws amazon com](https://github.com/user-attachments/assets/e92d8949-bd69-420c-a9d1-ae0d353fbb5a)
 
 ![image](https://github.com/user-attachments/assets/4b12407f-c752-4451-aaef-74b9f265ef2f)
-
+-General purpose
+Recommended for most use cases and access patterns. General purpose buckets are the original S3 bucket type. They allow a mix of storage classes that redundantly store objects across multiple Availability Zones.
