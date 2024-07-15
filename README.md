@@ -66,7 +66,27 @@ Recommended for most use cases and access patterns. General purpose buckets are 
   
   ![image](https://github.com/user-attachments/assets/2395bf88-9291-4ad0-9645-5a2c7918b9ba)
 
-  ![image](https://github.com/user-attachments/assets/31c28106-699c-4b40-80f3-90e696663dfc)
+- Choose the Objects tab.
+- Choose Upload.
+- Choose Add filesor folder
+- Choose Upload.
+- S3 will get to work right away!
+
+ ![image](https://github.com/user-attachments/assets/31c28106-699c-4b40-80f3-90e696663dfc)
+
+ ![image](https://github.com/user-attachments/assets/9a216620-64bd-4a2f-8be8-9f67740ead54)
+
+ - Choose close button after uploading succesfully completed.
+
+   ![image](https://github.com/user-attachments/assets/0d90a563-9405-4b51-9531-415913f0b642)
+
+ - Successful upload of your files to your S3 bucket.
+
+   ![image](https://github.com/user-attachments/assets/825d8499-f2d0-46be-ad73-a3e9bb849eb6)
+
+
+- Now back to your bucket's page. If not sure, choose buckets on the left hand side navigation bar, and then choose the bucket you created for this project.
+
 
 
 
