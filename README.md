@@ -87,6 +87,14 @@ Recommended for most use cases and access patterns. General purpose buckets are 
 
 - Now back to your bucket's page. If not sure, choose buckets on the left hand side navigation bar, and then choose the bucket you created for this project.
 
+![image](https://github.com/user-attachments/assets/710c85c8-619c-4c23-a936-3b49bb0d3da8)
+
+![image](https://github.com/user-attachments/assets/ebe1a0b9-52f6-4b32-b0f7-652882160a74)
+
+-click on save changes button
+
+
+
 
 
 
