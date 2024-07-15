@@ -52,6 +52,14 @@ Recommended for most use cases and access patterns. General purpose buckets are 
   ![image](https://github.com/user-attachments/assets/3aaf7b96-e06b-4100-a5ae-57288f3a9af5)
 
 - Choose Create bucket.
+![image](https://github.com/user-attachments/assets/740bd3d5-edfc-4a05-a140-166feaa954b1)
+
+-just created an S3 bucket!
+## Upload website content to your bucket
+
+- Upload these files into your bucket (right click on each link, and select Save link as...):
+  ![image](https://github.com/user-attachments/assets/65e585b3-13f9-4d1f-b708-43eb63da4b52)
+
 
 
 
