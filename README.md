@@ -20,7 +20,8 @@ Amazon S3 (Simple Storage Service) is a highly scalable, reliable, and low-laten
 
 
 ## Create a bucket in Amazon S3
-[ ]
-[ ]
-List item
+- In the AWS Management Console, search for `S3
+ - Choose  `Create bucket`.
+-   `AWS Region`: select the Region closest to you.
+-   For  `Bucket name`, enter  `Julian-Turner-website`. Make sure to replace  _name_  with your name.
 
