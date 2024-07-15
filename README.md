@@ -1,6 +1,6 @@
 # Deploy a static website on Amazone S3
 Amazon S3 (Simple Storage Service) is a highly scalable, reliable, and low-latency data storage infrastructure offered by Amazon Web Services (AWS). Here are the key points:
-Key Features:
+####Key Features:
 Object Storage:
 Storage of Objects: 
 Scalability:
