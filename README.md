@@ -32,5 +32,16 @@ Amazon S3 (Simple Storage Service) is a highly scalable, reliable, and low-laten
 
 ![image](https://github.com/user-attachments/assets/4b12407f-c752-4451-aaef-74b9f265ef2f)
 
--General purpose
+-General purpose :
 Recommended for most use cases and access patterns. General purpose buckets are the original S3 bucket type. They allow a mix of storage classes that redundantly store objects across multiple Availability Zones.
+
+![image](https://github.com/user-attachments/assets/c7d6a1eb-0af3-48a9-9ebd-dae17af5a31d)
+
+- For Object Ownership, choose ACLs enabled.
+- Choose Bucket owner preferred.
+- For Block Public Access settings for this bucket, clear the check box for Block all public access.
+- Check the box that says “I acknowledge that the current settings might result in this bucket and the objects within becoming public.”
+
+![image](https://github.com/user-attachments/assets/4a448cde-6d82-4134-8108-6a77f10b289a)
+
+
